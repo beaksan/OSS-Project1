@@ -1,0 +1,10 @@
+diff a/test.c b/test.c	(rejected hunks)
+@@ -0,0 +1,8 @@
++#include <stdio.h>
++
++int main()
++{
++  printf("test.txt");
++  
++  return 0;
++}
